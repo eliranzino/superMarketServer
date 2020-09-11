@@ -1,0 +1,9 @@
+Wine
+4 * 30.9= 123.6
+
+
+ total = 123.6
+ Shipping date = 2020-10-06
+ City = Ashkelon
+ Date = 10/9/2020
+ Credit card = 378282246310005

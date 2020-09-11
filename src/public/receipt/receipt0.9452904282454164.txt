@@ -1,0 +1,12 @@
+Milk
+2 * 5.9= 11.8
+
+,Zero
+3 * 13= 39
+
+
+ total = 50.8
+ Shipping date = 2020-09-18
+ City = Ramat-Gan
+ Date = 10/9/2020
+ Credit card = 378282246310005

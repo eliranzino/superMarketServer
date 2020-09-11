@@ -1,0 +1,9 @@
+Banana
+3 * 14.9= 44.7
+
+
+ total = 44.7
+ Shipping date = 2020-10-10
+ City = Haifa
+ Date = 10/9/2020
+ Credit card = 378282246310005

@@ -1,0 +1,9 @@
+Banana
+1 * 14.9= 14.9
+
+
+ total = 14.9
+ Shipping date = 2020-10-07
+ City = Nahariya
+ Date = 10/9/2020
+ Credit card = 378282246310005
